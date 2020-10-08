@@ -1,11 +1,11 @@
 <h1>Netflix Clone</h1>
 
-This is a netflix clone built with help of react and TMDB API key.
+This is a netflix clone built with help of react and TMDB API key.<br>
 It is a clone of home page for Netflix. You can view trailers if you look click on the poster in Netflix Originals. 
 
 Modules Used:
-react-youtube
-movie-trailer
+react-youtube,
+movie-trailer,
 axios
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
